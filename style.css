@@ -51,11 +51,11 @@ h2 {
 p {
    font-size: 13px;
    margin-top: 25px;
-   margin-bottom: 15px;
+   margin-bottom: 20px;
 }
 .btn {
    color: white;
-   border-radius: 20px;
+   border-radius: 30px;
    background-color: var(--color1);
    margin-bottom: 15px;
    border-radius: 3px;
