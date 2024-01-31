@@ -55,9 +55,9 @@ p {
 }
 .btn {
    color: white;
-   border-radius: 15px;
+   border-radius: 20px;
    background-color: var(--color1);
-   margin-bottom: 10px;
+   margin-bottom: 20px;
    border-radius: 3px;
    font-size: 14px;
    padding: 12px 40px;
