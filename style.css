@@ -40,7 +40,7 @@ img {
    margin-bottom: 20px;
 }
 h1 {
-   font-size: 22px;
+   font-size: 24px;
 }
 h2 {
    color: var(--color4);
@@ -50,14 +50,14 @@ h2 {
 }
 p {
    font-size: 13px;
-   margin-top: 15px;
+   margin-top: 25px;
    margin-bottom: 15px;
 }
 .btn {
    color: white;
    border-radius: 20px;
    background-color: var(--color1);
-   margin-bottom: 20px;
+   margin-bottom: 15px;
    border-radius: 3px;
    font-size: 14px;
    padding: 12px 40px;
